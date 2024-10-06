@@ -1,0 +1,2 @@
+# Adapter-Example
+Адаптер
